@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajesh Samal</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;Java+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 <h4 align="center"> I'm a graduate in MCA from  Biju Pattanaik University of Technology, India. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 </h4>
