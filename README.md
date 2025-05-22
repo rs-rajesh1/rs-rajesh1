@@ -11,7 +11,7 @@
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript,React, Redux-Toolkit, Node, Express, MongoDB, SQL**
 - 📧 How to reach me <b>**samalrajesh154@gmail.com**</b>
-- 📄 Check out my <b><a href="#">Resume</a></b>
+- 📄 Check out my <b><a href="file:///C:/Users/ADMIN/Documents/Rajesh%20Resume.pdf">Resume</a></b>
 
    
 
